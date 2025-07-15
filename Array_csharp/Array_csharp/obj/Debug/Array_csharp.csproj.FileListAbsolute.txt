@@ -1,0 +1,7 @@
+G:\ASP.NET CORE ALL PROJECT\Array_csharp\Array_csharp\bin\Debug\Array_csharp.exe.config
+G:\ASP.NET CORE ALL PROJECT\Array_csharp\Array_csharp\bin\Debug\Array_csharp.exe
+G:\ASP.NET CORE ALL PROJECT\Array_csharp\Array_csharp\bin\Debug\Array_csharp.pdb
+G:\ASP.NET CORE ALL PROJECT\Array_csharp\Array_csharp\obj\Debug\Array_csharp.csproj.AssemblyReference.cache
+G:\ASP.NET CORE ALL PROJECT\Array_csharp\Array_csharp\obj\Debug\Array_csharp.csproj.CoreCompileInputs.cache
+G:\ASP.NET CORE ALL PROJECT\Array_csharp\Array_csharp\obj\Debug\Array_csharp.exe
+G:\ASP.NET CORE ALL PROJECT\Array_csharp\Array_csharp\obj\Debug\Array_csharp.pdb
