@@ -34,6 +34,25 @@ namespace Array_csharp
             {
                 Console.WriteLine(str);
             }
+
+             int[,] my_multi_array = new int[2,0]
+ {
+     { 1, 2, 3, 4 },
+     { 5, 6, 7, 8  },
+     { 5, 6, 7, 8  }
+ };
+
+ foreach (int item in my_multi_array)
+ {
+     Console.WriteLine(item);
+ }
+
+ int[][] jagged_array = new int[2][];    
+ jagged_array[0] = new int[] { 1, 2, 3 ,34,44,56};
+ jagged_array[1] = new int[] { 4, 5, 6 , 78, 76};
+
+ Console.Write(jagged_array[1][1]);
+
             Console.ReadLine();
         }
     }
