@@ -19,6 +19,21 @@ namespace Array_csharp
 
             Console.WriteLine(my_array[0]);
 
+            for (int i = 0; i < my_array.Length; i++)
+            {
+                Console.WriteLine(my_array[i]);
+            }
+
+            string[] my_string_array = new string[5];
+            my_string_array[0] = "Hello";
+            my_string_array[1] = "Shailesh";
+            my_string_array[2] = "prajapati";
+            my_string_array[3] = "Komal Prajapati";
+            
+            foreach (string str in my_string_array)
+            {
+                Console.WriteLine(str);
+            }
             Console.ReadLine();
         }
     }
