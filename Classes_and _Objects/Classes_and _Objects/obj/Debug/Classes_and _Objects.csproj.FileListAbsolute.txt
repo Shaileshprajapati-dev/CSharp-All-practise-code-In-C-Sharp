@@ -1,0 +1,8 @@
+G:\ASP.NET CORE ALL PROJECT\Classes_and _Objects\Classes_and _Objects\bin\Debug\Classes_and _Objects.exe.config
+G:\ASP.NET CORE ALL PROJECT\Classes_and _Objects\Classes_and _Objects\bin\Debug\Classes_and _Objects.exe
+G:\ASP.NET CORE ALL PROJECT\Classes_and _Objects\Classes_and _Objects\bin\Debug\Classes_and _Objects.pdb
+G:\ASP.NET CORE ALL PROJECT\Classes_and _Objects\Classes_and _Objects\obj\Debug\Classes_and _Objects.csproj.AssemblyReference.cache
+G:\ASP.NET CORE ALL PROJECT\Classes_and _Objects\Classes_and _Objects\obj\Debug\Classes_and _Objects.csproj.CoreCompileInputs.cache
+G:\ASP.NET CORE ALL PROJECT\Classes_and _Objects\Classes_and _Objects\obj\Debug\Classes_and _Objects.exe
+G:\ASP.NET CORE ALL PROJECT\Classes_and _Objects\Classes_and _Objects\obj\Debug\Classes_and _Objects.pdb
+G:\ASP.NET CORE ALL PROJECT\Classes_and _Objects\Classes_and _Objects\obj\Debug\Classes_and _Objects.exe.config
