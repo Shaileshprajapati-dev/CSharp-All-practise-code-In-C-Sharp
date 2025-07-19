@@ -1,0 +1,7 @@
+G:\ASP.NET CORE ALL PROJECT\Creata _Calculator_Demo_Application\Creata _Calculator_Demo_Application\bin\Debug\Creata _Calculator_Demo_Application.exe.config
+G:\ASP.NET CORE ALL PROJECT\Creata _Calculator_Demo_Application\Creata _Calculator_Demo_Application\bin\Debug\Creata _Calculator_Demo_Application.exe
+G:\ASP.NET CORE ALL PROJECT\Creata _Calculator_Demo_Application\Creata _Calculator_Demo_Application\bin\Debug\Creata _Calculator_Demo_Application.pdb
+G:\ASP.NET CORE ALL PROJECT\Creata _Calculator_Demo_Application\Creata _Calculator_Demo_Application\obj\Debug\Creata _Calculator_Demo_Application.csproj.AssemblyReference.cache
+G:\ASP.NET CORE ALL PROJECT\Creata _Calculator_Demo_Application\Creata _Calculator_Demo_Application\obj\Debug\Creata _Calculator_Demo_Application.csproj.CoreCompileInputs.cache
+G:\ASP.NET CORE ALL PROJECT\Creata _Calculator_Demo_Application\Creata _Calculator_Demo_Application\obj\Debug\Creata _Calculator_Demo_Application.exe
+G:\ASP.NET CORE ALL PROJECT\Creata _Calculator_Demo_Application\Creata _Calculator_Demo_Application\obj\Debug\Creata _Calculator_Demo_Application.pdb
