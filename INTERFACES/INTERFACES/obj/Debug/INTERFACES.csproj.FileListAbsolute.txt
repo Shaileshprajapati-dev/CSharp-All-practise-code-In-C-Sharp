@@ -1,0 +1,7 @@
+G:\C# all code programm\INTERFACES\INTERFACES\bin\Debug\INTERFACES.exe.config
+G:\C# all code programm\INTERFACES\INTERFACES\bin\Debug\INTERFACES.exe
+G:\C# all code programm\INTERFACES\INTERFACES\bin\Debug\INTERFACES.pdb
+G:\C# all code programm\INTERFACES\INTERFACES\obj\Debug\INTERFACES.csproj.AssemblyReference.cache
+G:\C# all code programm\INTERFACES\INTERFACES\obj\Debug\INTERFACES.csproj.CoreCompileInputs.cache
+G:\C# all code programm\INTERFACES\INTERFACES\obj\Debug\INTERFACES.exe
+G:\C# all code programm\INTERFACES\INTERFACES\obj\Debug\INTERFACES.pdb
